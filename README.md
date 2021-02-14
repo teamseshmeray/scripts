@@ -5,6 +5,3 @@ DM me if you want to submit script
 
 <<<<<<<<<<< Meray's scripts >>>>>>>>>>>>
              2019 - 2021
-
- █▄ ▄█ ██▀ █▀▄ ▄▀▄ ▀▄▀  's 
- █ ▀ █ █▄▄ █▀▄ █▀█  █   scripts
