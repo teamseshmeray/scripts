@@ -17,4 +17,4 @@
 |                |                                                 |
 |                | .cmds                             List commands |
 ----------------------------------------------------------------]]--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/teamseshmeray/scripts/main/cmd-x-x.txt", true))()
